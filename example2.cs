@@ -4,11 +4,6 @@ using System;
 	{
 		private static example1 obj = null;
 		
-		//public static example1()
-		//{
-		//	obj = new example1();
-		//}
-
 		private example1()
 		{
 		}
